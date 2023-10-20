@@ -1,0 +1,15 @@
+{
+  "name": "rdc216",
+  "version": "1.0.0",
+  "description": "servidor rdc em consultoria de alimentos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jair do nascimento de oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.18.2"
+  }
+}
